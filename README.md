@@ -1,6 +1,6 @@
 # Boş Discord.js v14 Altyapısı
 
-Bu altyapı, Discord.js v14 kullanılarak kodlanmış boş bir altyapıdır.
+Bu altyapı, Discord.js v14 kullanılarak kodlanmış boş bir altyapısıdır.
 
 ## 🔧 Kurulum
 
